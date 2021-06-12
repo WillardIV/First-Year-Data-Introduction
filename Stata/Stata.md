@@ -1,4 +1,4 @@
-This directory will contain useful resources for learning and using Stata.
+This directory contains useful resources for learning and using Stata.
 
 Directories:
 * Packages
