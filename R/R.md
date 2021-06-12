@@ -1,4 +1,4 @@
-This directory will contain resources for learning R
+This directory contains useful resources for learning and using R.
 
 Directories:
 * Tidyverse
