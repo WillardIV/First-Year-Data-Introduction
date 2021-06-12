@@ -1,0 +1,9 @@
+This directory contains useful resources for learning and using LaTex.
+
+Directories:
+* Overleaf
+* Econometrics Package
+* TiKz
+* Common Packages
+* Cheatsheets
+* Literature
