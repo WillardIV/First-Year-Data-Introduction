@@ -5,3 +5,4 @@ Directories:
 * Common Packages
 * R Markdown
 * Cheatsheets
+* Literature
